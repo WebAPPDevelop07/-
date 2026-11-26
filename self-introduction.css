@@ -16,3 +16,10 @@ span {
   color: black;
   background-color: white;
 }
+.face {
+  color:blue;
+}
+.back {
+  color:blue;
+  opacity: 0.4;
+}
